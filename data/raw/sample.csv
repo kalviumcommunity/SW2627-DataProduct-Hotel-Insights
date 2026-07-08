@@ -1,0 +1,6 @@
+booking_id,booking_date,customer_segment,stay_nights,total_spend,cancelled
+1001,2026-06-01,Corporate,2,420,No
+1002,2026-06-02,Leisure,3,615,No
+1003,2026-06-02,Leisure,3,615,No
+1004,2026-06-03,Business,1,,Yes
+1005,2026-06-04,Corporate,4,980,No
