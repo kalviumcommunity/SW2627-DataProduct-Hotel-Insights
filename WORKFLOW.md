@@ -24,3 +24,7 @@
 - Every feature or fix starts with a GitHub issue.
 - Issues should include labels, assignees, and a clear description of done.
 - Issues are closed when the related pull request is merged.
+
+## Operating Note
+
+- Keep collaboration work visible in issues and pull requests so context is not lost.
