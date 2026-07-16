@@ -1,0 +1,13 @@
+
+Revenue Distribution Analysis:
+
+Skewness: 18.02 → Highly right-skewed
+Mean: $526.81
+Median: $459.62
+Interpretation: Most customers are small; few are huge enterprise accounts (unbalanced spend pattern)
+
+Kurtosis: 456.01 → Fat tails (highly volatile outlier presence)
+Max Customer Spend: $15000.00
+Top 1% Cut-off: $1384.92
+
+Business Action: Segment customers into Small/Medium (SMB) vs Enterprise categories to apply distinct pricing models and account management strategies.
