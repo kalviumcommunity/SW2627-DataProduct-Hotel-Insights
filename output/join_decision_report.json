@@ -1,0 +1,12 @@
+{
+  "join_type": "left",
+  "left_table": "customers",
+  "right_table": "orders",
+  "join_key": "customer_id",
+  "left_rows": 1000,
+  "right_rows": 5000,
+  "result_rows": 4798,
+  "unmatched_left": 61,
+  "unmatched_right": 263,
+  "reasoning": "Left join preserves all customer records regardless of order history, which prevents losing non-purchasing customers in downstream marketing segments, while flagging orphaned orders for data quality reviews."
+}
