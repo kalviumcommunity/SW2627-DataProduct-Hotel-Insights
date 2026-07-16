@@ -1,0 +1,8 @@
+product_name,customer_name,segment,location
+electronics,JOHN,B2B,So Paulo
+electronics,john,B2B,Montral
+electronics,John,B2B,New York
+furniture,ALICE,SMB,So Paulo
+furniture,alice,SMB,Montral
+software,Alice,SMB,Paris
+,BOB,Enterprise,
