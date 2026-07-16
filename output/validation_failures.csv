@@ -1,0 +1,6 @@
+customer_id,age,price,birth_date,email,phone,start_date,end_date,valid_age,valid_price,valid_date,valid_customer_id,valid_email,valid_email_format,valid_phone,valid_date_order,passes_all_checks
+CUST02,180,200.0,2050-01-01,bob_example.com,987654321,2025-02-01,2025-01-15,False,True,False,True,True,False,False,False,False
+,34,99.9,1989-11-20,charlie@gmail.com,5551234567,2025-03-01,2025-03-10,True,True,True,False,True,True,True,True,False
+CUST04,45,-10.0,1975-03-30,,4445556660,2025-04-01,2025-04-15,True,False,True,True,False,False,True,True,False
+CUST05,-5,50.0,1910-06-12,eve@yahoo.com,222333,2025-05-01,2025-04-30,False,True,False,True,True,True,False,False,False
+CUST06,12,0.0,2012-07-08,frank@mail.com,invalidphone,2025-06-15,2025-06-20,True,True,True,True,True,True,False,True,False
