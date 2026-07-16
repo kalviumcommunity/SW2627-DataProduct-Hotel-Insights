@@ -1,0 +1,12 @@
+{
+  "support_tickets <-> churn": {
+    "correlation": 0.62,
+    "possible_directions": [
+      "support_tickets \u2192 churn (customer gives up after contacting support)",
+      "churn \u2192 support_tickets (unhappy customers contact support before leaving)",
+      "customer_pain \u2192 both (underlying system issues or service failures cause both)"
+    ],
+    "data_indicates": "Likely customer_pain is the hidden confounder; tickets are a symptom, not the root cause.",
+    "action": "Focus on resolving service pain points and product bugs rather than attempting to reduce support ticket volumes."
+  }
+}
