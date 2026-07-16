@@ -1,0 +1,3 @@
+column,method,action,threshold_lower,threshold_upper,affected_rows,date
+revenue,IQR + Z-score,cap,199.05692811632687,799.9152480566459,3,2026-07-16 09:26:55.761502
+age,Fixed Limit (>100),cap to 80,0.0,100.0,3,2026-07-16 09:26:55.765942
